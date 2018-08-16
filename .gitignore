@@ -1,0 +1,7 @@
+.idea/
+IlluminatedCloud/
+node_modules/
+.sfdx
+.vscode
+package-lock.json
+*.iml
